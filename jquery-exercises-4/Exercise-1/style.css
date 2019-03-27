@@ -1,0 +1,10 @@
+#play {
+  position: relative;
+  left: 50px;
+  top: 50px;
+  padding: 10px;
+}
+#result {
+  position: relative;
+  top: 70px;
+}
